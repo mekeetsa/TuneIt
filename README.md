@@ -2,6 +2,8 @@
 
 Frequency analyzer and tuner for musical instruments
 
+![screenshot](images/mozart.png)
+
 Key bindings:
 
 ```
